@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 public class InvetoryServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InvetoryServiceApplication.class, args);
+		SpringApplication.run(InvetoryServiceApplication.class, args); // This is the main method of the application
 	}
 
 	@Bean
